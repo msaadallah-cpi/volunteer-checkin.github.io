@@ -1,0 +1,5 @@
+{
+  "name": "CPI Check in",
+  "description": "A simple and efficient check-in system for CPI volunteers with real-time tracking and data export.",
+  "requestFramePermissions": []
+}
